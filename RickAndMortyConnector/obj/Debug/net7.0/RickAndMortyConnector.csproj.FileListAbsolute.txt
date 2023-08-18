@@ -1,0 +1,12 @@
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/bin/Debug/net7.0/RickAndMortyConnector.deps.json
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/bin/Debug/net7.0/RickAndMortyConnector.dll
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/bin/Debug/net7.0/RickAndMortyConnector.pdb
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/RickAndMortyConnector.csproj.AssemblyReference.cache
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/RickAndMortyConnector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/RickAndMortyConnector.AssemblyInfoInputs.cache
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/RickAndMortyConnector.AssemblyInfo.cs
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/RickAndMortyConnector.csproj.CoreCompileInputs.cache
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/RickAndMortyConnector.dll
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/refint/RickAndMortyConnector.dll
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/RickAndMortyConnector.pdb
+/Users/eric.issami/Projects/BuszapDesafio/RickAndMortyConnector/obj/Debug/net7.0/ref/RickAndMortyConnector.dll
